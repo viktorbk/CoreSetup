@@ -1,0 +1,8 @@
+{
+  "name": "coresetup",
+  "dependencies": {},
+  "globalDependencies": {
+    "devextreme": "registry:dt/devextreme#15.2.10+20160602154958",
+    "jquery": "registry:dt/jquery#1.10.0+20160929162922"
+  }
+}

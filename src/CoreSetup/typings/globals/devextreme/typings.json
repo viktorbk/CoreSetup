@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/12dc242d27fba4ee469db0860b9d9ad8a481f0bb/devextreme/devextreme.d.ts",
+    "raw": "registry:dt/devextreme#15.2.10+20160602154958",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/12dc242d27fba4ee469db0860b9d9ad8a481f0bb/devextreme/devextreme.d.ts"
+  }
+}
